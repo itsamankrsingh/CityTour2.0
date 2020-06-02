@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">City Tour 2.0</string>
+    <string name="bhagalpur">Bhagalpur</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="home">Home</string>
+    <string name="general_info">General Info</string>
+    <string name="demography">Demography</string>
+    <string name="destination">Destination</string>
+    <string name="how_to_reach">How To Reach</string>
+    <string name="about_bihar">About Bihar</string>
+    <string name="developer">Developer</string>
+</resources>

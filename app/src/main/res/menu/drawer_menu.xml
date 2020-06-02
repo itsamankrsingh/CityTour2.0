@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuHome"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/menuInfo"
+            android:icon="@drawable/ic_menu_info"
+            android:title="@string/general_info" />
+        <item
+            android:id="@+id/menuDemography"
+            android:icon="@drawable/ic_menu_demography"
+            android:title="@string/demography" />
+        <item
+            android:id="@+id/menuDestination"
+            android:icon="@drawable/ic_menu_destination"
+            android:title="@string/destination" />
+        <item
+            android:id="@+id/menuReach"
+            android:icon="@drawable/ic_menu_reach"
+            android:title="@string/how_to_reach" />
+        <item
+            android:id="@+id/menuAbout"
+            android:icon="@drawable/ic_menu_about"
+            android:title="@string/about_bihar" />
+        <item
+            android:id="@+id/menuDeveloper"
+            android:icon="@drawable/ic_menu_developer"
+            android:title="@string/developer" />
+    </group>
+</menu>
