@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">City Tour 2.0</string>
-    <string name="bhagalpur">Bhagalpur</string>
     <string name="open">open</string>
     <string name="close">close</string>
     <string name="home">Home</string>
@@ -10,4 +9,165 @@
     <string name="how_to_reach">How To Reach</string>
     <string name="about_bihar">About Bihar</string>
     <string name="developer">Developer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_bhagalpur">
+        Bhagalpur is a city of historical importance on the southern banks of the river Ganges in
+        the Indian state of Bihar. It is the 3rd largest city of Bihar and also the headquarters
+        of Bhagalpur district and Bhagalpur division. Known as Silk City, it is a major educational,
+        commercial, and political centre, and listed for development under the Smart City program
+        a joint venture between Government and industry. The Gangetic plains surrounding
+        the city are very fertile and the main crops include rice, wheat, maize, barley, and oilseeds.
+        The river is home to the Gangetic dolphin, the National Aquatic Animal of India,
+        and the Vikramshila Gangetic Dolphin Sanctuary is established near the town.
+    </string>
+
+    <string name="coordinates">Coordinates</string>
+    <string name="_25_15_n_87_0_e">25°15′N 87°0′E</string>
+    <string name="country">Country</string>
+    <string name="india">India</string>
+    <string name="state">State</string>
+    <string name="bihar">Bihar</string>
+    <string name="district">District</string>
+    <string name="bhagalpur">Bhagalpur</string>
+    <string name="urban_agglomeration">Urban Agglomeration</string>
+    <string name="municipal_corporation">Municipal Corporation</string>
+    <string name="bhagalpur_municipal_corporation">Bhagalpur Municipal Corporation</string>
+    <string name="area_total">Area Total</string>
+    <string name="_342_km2_132_sq_mi">342 km2 (132 sq mi)</string>
+    <string name="area_rank">Area Rank</string>
+    <string name="_2nd_in_bihar">2nd(in Bihar)</string>
+    <string name="population">Population</string>
+    <string name="_4_10_210">4,10,210</string>
+    <string name="postal_index_number">Postal Index Number</string>
+    <string name="_812001_81xxxx">812001-81XXXX</string>
+    <string name="std_code">STD Code</string>
+    <string name="_0641">0641</string>
+    <string name="vehicle_registration">Vehicle Registration</string>
+    <string name="br_10">BR-10</string>
+    <string name="website">Website</string>
+    <string name="bhagalpur_bih_nic_in">bhagalpur.bih.nic.in</string>
+
+    <string name="demography_fragment">
+        As of the 2011 India census, the Bhagalpur Urban Agglomeration has a population of 410,210,
+        of which 218,284 were males and 191,926 were females. It is the 3rd largest city in Bihar
+        in terms of urban population. the total population in the age group of 0 to 6 years is 55,898.
+        The total number of literates are 286,125, with 160,720 males and 125,405 females.
+        The effective literacy rate of 7+ population is 80.76%, of which while
+        the male literacy rate is 84.95% with women at 75.95%.
+    </string>
+
+    <string name="how_to_reach_fragment">
+        Bhagalpur is well connected with other part of country by roads and trains.
+        Railways: The Bhagalpur Junction railway station, is connected to most of the
+        major cities in India by the railway network, which lies in between Howrah Kiul
+        loop-line which serves Bhagalpur with numerous number of trains. It is the 3rd
+        busiest line in Bihar. About 100 pairs of Express and 40 pairs of
+        passenger train pass through this line. Bhagalpur is A1 grade Railway station.
+        It is the highest revenue generator in the Malda Rail Division. It
+        is the third major railway station in Eastern Railway after Howrah and Sealdah.
+        Bhagalpur is well connected to Delhi, Mumbai, Kolkata, Bangalore, Ajmer, Kanpur,
+        Patna, Guwahati, Surat, Jammu Tawi, Munger, Gaya and other cities.
+        North Bhagalpur is served by the Barauni- Katihar section of the ECR/NFR.
+        Narainpur, Thana Bihpur, Naugachhia and Katareah railway stations lie on this line.
+    </string>
+
+    <string name="about_bihar_fragment">
+        Bihar (/bɪˈhɑːr/; Hindi pronunciation: [bɪˈɦaːr] (About this soundlisten)) is a state in eastern India.
+        It is the third-largest state by population and twelfth-largest by territory,
+        with an area of 94,163 km2 (36,357 sq mi). It is contiguous with Uttar Pradesh to its west,
+        Nepal to the north, the northern part of West Bengal to the east, and with Jharkhand to the south.
+        The Bihar plain is split by the river Ganges, which flows from west to east. Three main cultural
+        regions converge in the state: Magadh, Mithila, and Bhojpur. In ancient and classical India,
+        the area that is now Bihar was considered a centre of power, learning, and culture. From Magadha
+        arose India\'s first empire, the Maurya empire, as well as one of the world\'s most widely
+        adhered-to religions: Buddhism. Magadha empires, notably under the Maurya
+        and Gupta dynasties, unified large parts of South Asia under a central rule.
+        Another region of Bihar is Mithila which was an early centre of learning and the centre of the Videha kingdom.
+    </string>
+
+
+    <string name="vikramshila_name">Ruins of Vikramshila</string>
+    <string name="vikramshila">
+        Ruins of Vikramshila:","The royal university of Vikramsila, 38 km from Bhagalpur ranks next
+        to Nalanda and owes its origin to Dharmapala (770-810 A.D.), the devout Pala king who loved
+        to call himself Paramasaugata (chief worshipper of the Buddha)and was a great patron of Mahayana
+        Buddhism.Dharmapala was impressed by two things which prompted him to establish Vikramsila university.
+        Firstly, the rocky hillock anchored around the confluence of Kosi and Ganga at Vateshwarasthan
+        was not only a scenic attraction but a popular tantric site as evident from the presence of a
+        Kali temple (instead of Parvati’s) in front of Shiva temple, besides various other caves and
+        rock cut sculptures dating back to the 6\\7th century A.D. Secondly, the place was
+        with pilgrimage due to Uttarbahini which drew large crowds during Varsavardhana.
+        Unlike Nalanda, sources of information on Vikramsila is confined to Tibetan texts and
+        they make us believe that Dharmapala in his earlier birth was an accomplished acharya,
+        Kampilya, who had attained siddhi or perfection in Mahayana mudra mysticism here and
+        was determined to build a monastery one day.
+    </string>
+    <string name="dolphin_name">Vikramshila Gangetic Dolphin Sanctuary</string>
+    <string name="dolphin">
+        Vikramshila Gangetic Dolphin Sanctuary is located in Bhagalpur District of Bihar, India.
+        The sanctuary is a 60 km stretch of the Ganges River from Sultanganj to Kahalgaon in Bhagalpur District.
+        Designated in 1991, it is protected area for the endangered Gangetic dolphins in Asia.
+        Once found in abundance, only a few hundred remain, of which half are found here.
+        The Gangetic dolphins have been declared as the national aquatic animal of India.
+        This decision was taken in the first meeting of the National Ganga River Basin Authority (NGRBA)
+        chaired by Prime Minister Dr. Manmohan Singh on Monday, 5 October 2009
+        Major attractions are the Ganges river dolphins (known as Soons by Locals)
+        which are classified as endangered on the 2006 IUCN Red List of Threatened Species and included in Schedule-I
+        of the Indian Wildlife Protection Act, 1972. The sanctuary also contains rich diversity
+        of other threatened aquatic wildlife, including the Indian smooth-coated otter (Lutrogale perspicillata),
+        gharial (Gavialis gangeticus), a variety of freshwater turtles, and 135 species of waterfowl.
+    </string>
+    <string name="mandar_name">Mandar Hill:</string>
+    <string name="mandar">
+        Mandar Hills (50 km), steeped in legend and laced with landscape of extraordinary splendour
+        exposes the 800 feet high granite hill. Mandar is associated with amritmanthana which suggests
+        that the hill was used by the gods to churn the ocean to procure amrit. The serpent,
+        Basukinaga offered to serve as the rope and has left behind an impression of the coil on the granite hill.
+        It is believed that panchjanya, the conch shell used in Mahabharat War was discovered here in the Sank kund.
+        The puranas refer to various sacred places on the hill which is also believed to be the abode of
+        Vishnu under the title of Madhusudana or the destroyer of a demon called Madhu who
+        was killed by Vishnu and then covered by the Mandar hill. Kalidasa\’s kumarasamahava
+        refers to foot marks of Vishnu on the slopes of Mandar.The hill is replete with relics of bygone ages.
+        Besides inscriptions and statues there are numerous rock cut sculptures depicting
+        various Brahmanical images. The hill is equally revered by the Jains who
+        believe that their 12th Tirthankara attained nirvana here on the summit of the hill.
+    </string>
+    <string name="jain_name">Shri Champapur Digamber Jain Siddha Kshetra:</string>
+    <string name="jain">
+        Shri Champapur Digamber Jain Siddha Kshetra is an Siddha Kshetra (Place of Salvation).
+        It is quite an ancient and historic Teerth Kshetra. Shri Champapur Digamber Jain Siddha
+        Kshetra is located at village Nathnagar, District Bhagalpur Bihar. By road it is 3.5 km
+        away from Bhagalpur, 270 Km. Patna. Champapur is the only \‘Panch Kalyanaka Kshetra\’
+        in the world which is related to Panch Kalyanaka: – \“(i) Garbha, (ii) Janma, (iii) Tapa,
+        (iv) Gyan and (v) Moksha\” 12th Tirthankara Bhagwan Vasupujya (The first ascetic saint).
+    </string>
+    <string name="kuppaghat_name">Maharshi Mehi Aashram, Kuppaghat:</string>
+    <string name="kuppaghat">
+        Lord Sadguru Maharshi Mehi Paramhansji Maharaj was a Sant in the link of Sants like
+        Kabir and Nanak. He had attained perfection and was a God-realized Soul.
+        His spirit-force was ever absorbed in the Logos and He was endowed with all the marks of a Sant.
+    </string>
+    <string name="garur_name">Garuda Sanctuary</string>
+    <string name="garur">
+        World\'s Second Largest Rescue and Rehabilitation Area for Garuda is Bhagalpur. In Indian mythology,
+        Garuda is considered the vahana or carrier of the god Vishnu. The mythical Garuda is staging a
+        comeback – only this time in reality. Four years after these endangered birds of the stork
+        family started nesting and breeding in Bhagalpur district, their number has increased
+        over sixfold – from 78 to over 500.[6] Worldwide its population is about 1200–1300.
+        They live in only three places; one is Cambodia and other two are in India. In Cambodia,
+        the garuda population is about 150, in Assam the garuda population is about 650,
+        and in the Bhagalpur district (around Kadwa Diyara, a place nearby Naugachia)
+        the garuda population is about 500.
+    </string>
+    <string name="setu_name">Vikramshila Setu</string>
+    <string name="setu">
+        Vikramshila Setu is 5th longest bridge over water in India. The 4.7 km long two lane bridge serves
+        as a link between NH 33 and NH 31 running on the opposite sides of the Ganges.
+        This bridge has reduced considerably the road travel between Bhagalpur and
+        places across the Ganges, like Darjeeling, Siliguri, Assam etc. Before the opening of
+        this bridge steamer was being used for transportation across the Ganga river.
+    </string>
+
+
 </resources>
