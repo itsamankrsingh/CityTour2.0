@@ -43,6 +43,7 @@ public class DestinationAdapter extends ArrayAdapter<Destination> {
         TextView destinationText=listItemView.findViewById(R.id.txtDestinationName);
         destinationText.setText(currentDestination.getPlaceName());
 
+
         return listItemView;
     }
 }

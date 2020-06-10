@@ -118,7 +118,7 @@
         of other threatened aquatic wildlife, including the Indian smooth-coated otter (Lutrogale perspicillata),
         gharial (Gavialis gangeticus), a variety of freshwater turtles, and 135 species of waterfowl.
     </string>
-    <string name="mandar_name">Mandar Hill:</string>
+    <string name="mandar_name">Mandar Hill</string>
     <string name="mandar">
         Mandar Hills (50 km), steeped in legend and laced with landscape of extraordinary splendour
         exposes the 800 feet high granite hill. Mandar is associated with amritmanthana which suggests
@@ -133,7 +133,7 @@
         various Brahmanical images. The hill is equally revered by the Jains who
         believe that their 12th Tirthankara attained nirvana here on the summit of the hill.
     </string>
-    <string name="jain_name">Shri Champapur Digamber Jain Siddha Kshetra:</string>
+    <string name="jain_name">Shri Champapur Digamber Jain Siddha Kshetra</string>
     <string name="jain">
         Shri Champapur Digamber Jain Siddha Kshetra is an Siddha Kshetra (Place of Salvation).
         It is quite an ancient and historic Teerth Kshetra. Shri Champapur Digamber Jain Siddha
@@ -142,7 +142,7 @@
         in the world which is related to Panch Kalyanaka: – \“(i) Garbha, (ii) Janma, (iii) Tapa,
         (iv) Gyan and (v) Moksha\” 12th Tirthankara Bhagwan Vasupujya (The first ascetic saint).
     </string>
-    <string name="kuppaghat_name">Maharshi Mehi Aashram, Kuppaghat:</string>
+    <string name="kuppaghat_name">Maharshi Mehi Aashram, Kuppaghat</string>
     <string name="kuppaghat">
         Lord Sadguru Maharshi Mehi Paramhansji Maharaj was a Sant in the link of Sants like
         Kabir and Nanak. He had attained perfection and was a God-realized Soul.
@@ -167,6 +167,17 @@
         This bridge has reduced considerably the road travel between Bhagalpur and
         places across the Ganges, like Darjeeling, Siliguri, Assam etc. Before the opening of
         this bridge steamer was being used for transportation across the Ganga river.
+    </string>
+    <string name="ajgaivinath_name">Ajgaivinath Temple, Sultanganj</string>
+    <string name="ajgaivnath">
+        Ajgavinath Temple of Sultanganj is one of the ancient Temple constructed on a rock and has wonderful
+        collection series of rock sculptures and inscriptions which is historically in the Pala Period.
+
+        Located in the Sultanganj village of Bhagalpur District, this temple is situated close
+        to the Holy River Ganga. The origin of this Temple is yet unknown and still a mystery.
+
+        he present name “Ajgaivinath” is connected to Lord Shiva who had given up his bow “Ajgav” at this place and that\’s
+        why this historical place came to be known as “Ajgaivinath”.
     </string>
 
 
